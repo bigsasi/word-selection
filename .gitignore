@@ -1,3 +1,7 @@
 rcv1
 GoogleNews-vectors-negative300.bin
+*.pkl
+__pychache__
+ipynb_checkpoints
+lib
 
